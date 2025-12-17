@@ -18,14 +18,20 @@ Personal Projects
 * [Food Decider](https://github.com/alexanderdenton/Food-Decider)
 * [Head First Design Patterns Examples](https://github.com/alexanderdenton/Head-First-Design-Patterns)
 
+---
+
 Work Experience
 * [RoboMaze](https://github.com/alexanderdenton/robomaze)
 * [RoboMaze Experiment](https://github.com/alexanderdenton/MoveMotorExperiment)
 * [RoboMaze Motor Callibration](https://github.com/alexanderdenton/micromouse_callibrator)
 
+---
+
 Diploma:
 * [Diploma Knowledge Questions](https://github.com/alexanderdenton/Diploma-KQs)
 [Enrichment Project](https://github.com/alexanderdenton/Enrichment-Project)
+
+---
 
 University Assignments
 * Third Year Modules
@@ -60,13 +66,19 @@ University Assignments
     * [CO1707 Assignment 1](https://github.com/alexanderdenton/CO1707_Assignment_1)
     * [CO1707 Assignment 2](https://github.com/alexanderdenton/CO1707_Assignment_2)
 * [Hackathon Events App](https://github.com/alexanderdenton/UCLanHackathonEventsApp)
- 
+
+---
+
 College Assignments
 * [A-Level Computer Science NEA](https://github.com/alexanderdenton/A-LevelNEA)
+
+---
 
 Templates
 * [Java IntelliJ IDEA](https://github.com/alexanderdenton/java_experimentation)
 * [Visual Studio C++ Console App](https://github.com/alexanderdenton/Cplusplus-Console-Template)
+
+---
 
 Utilities
 * [C++](https://github.com/alexanderdenton/myUtilities)
