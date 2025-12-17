@@ -47,14 +47,14 @@ The following list is for my personal use and some repositories listed below wil
     * [CO2412 Assignment 1](https://github.com/alexanderdenton/CO2412_Assignment_1)
   * First Year Modules
     * **Games Concepts:** 
-    - [CO1301 Assignment 1](https://github.com/alexanderdenton/CO1301_Assignment_1)
-    - [CO1301 Assignment 2](https://github.com/alexanderdenton/CO1301_Assignment_2)
+      * [CO1301 Assignment 1](https://github.com/alexanderdenton/CO1301_Assignment_1)
+      * [CO1301 Assignment 2](https://github.com/alexanderdenton/CO1301_Assignment_2)
     * **Programming:**
-    - [CO1409 Assignment 1](https://github.com/alexanderdenton/CO1409-Coursework-1)
-    - [CO1409 Assignment 2](https://github.com/alexanderdenton/CO1409-Coursework-2)
+      * [CO1409 Assignment 1](https://github.com/alexanderdenton/CO1409-Coursework-1)
+      * [CO1409 Assignment 2](https://github.com/alexanderdenton/CO1409-Coursework-2)
     * **Web Technologies:**
-    - [CO1707 Assignment 1](https://github.com/alexanderdenton/CO1707_Assignment_1)
-    - [CO1707 Assignment 2](https://github.com/alexanderdenton/CO1707_Assignment_2)
+      * [CO1707 Assignment 1](https://github.com/alexanderdenton/CO1707_Assignment_1)
+      * [CO1707 Assignment 2](https://github.com/alexanderdenton/CO1707_Assignment_2)
   * [Hackathon Events App](https://github.com/alexanderdenton/UCLanHackathonEventsApp)
 * College Assignments
   * [A-Level Computer Science NEA](https://github.com/alexanderdenton/A-LevelNEA)
