@@ -9,7 +9,10 @@ You can click the Preview link to take a look at your changes.
 List of Reposiories
 -------------------
 The following list is for my personal use and some repositories listed below will be private.
+
 [GitHub Pages](https://github.com/alexanderdenton/alexanderdenton.github.io)
+
+---
 
 Personal Projects
 * [Duplicate File Locator](https://github.com/alexanderdenton/duplicate-file-locator)
